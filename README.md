@@ -6,7 +6,7 @@ Dataset: https://www.kaggle.com/nward7/gold-historical-datasets
 
 Methods Comparison Summary:
 
-![](https://github.com/kishanAk21/Time_Series_forecasting/blob/main/TS.png)
+![](https://github.com/kishanAk21/Time_Series_Forecasting/blob/main/TS.png)
 
 
 ## Conclusion:
